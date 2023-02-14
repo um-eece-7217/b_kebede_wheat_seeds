@@ -1,7 +1,7 @@
 # bereket_kebede_wheat_seeds
 
 
-# Multi-media Information Processing (EECE 7217) 
+## Multi-media Information Processing (EECE 7217) 
 
 ## Assignment 2
 
